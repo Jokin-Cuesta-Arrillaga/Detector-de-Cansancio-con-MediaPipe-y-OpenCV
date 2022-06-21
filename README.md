@@ -18,3 +18,11 @@ Todos los landmarks del pose que detecta MediaPipe (33) se recogen en la siguien
  
  
 Utilizaremos estos landmarks, junto a las faciales, para tratar de predecir con distintos algoritmos de Machine Learning el cansancio. Cuando la probabilidad de que el/la conductor/a es mayor que 70%, lanzaremos una alerta para que pare a descansar.
+ 
+ ---
+ Todo el código está explicado en el notebook DETECTOR CANSADO-DESPIERTO CON IA.ipynb. 
+ ---
+ 
+Los resultados obtenidos han sido satisfactorios (se muestran en el siguiente .gif) y podrían mejorarse teniendo más datos entrenados o tomando en cuenta más variables en cuanto al cansancio. Incluso se podría estudiar más clases donde añadiríamos distintos grados de cansancio.
+
+![imagen de gif](https://i.ibb.co/pfYBY9H/Cansadodespierto.gif)
