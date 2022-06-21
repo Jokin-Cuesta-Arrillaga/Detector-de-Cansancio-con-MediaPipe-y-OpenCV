@@ -29,4 +29,4 @@ Los resultados obtenidos han sido satisfactorios (se muestran en el siguiente .g
 
 <div style="width: 100%; clear: both;">
 <div style="float: center; width: 100%;">
-<img src="https://github.com/Jokin-Cuesta-Arrillaga/Detector-de-Cansancio-con-MediaPipe-y-OpenCV/blob/main/Cansadodespierto.gif?raw=true)", align="centre">
+<img src="https://github.com/Jokin-Cuesta-Arrillaga/Detector-de-Cansancio-con-MediaPipe-y-OpenCV/blob/main/Imagenes/Cansadodespierto.gif?raw=true)", align="centre">
