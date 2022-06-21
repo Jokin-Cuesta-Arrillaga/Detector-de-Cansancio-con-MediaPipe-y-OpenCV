@@ -14,4 +14,7 @@ Todos los landmarks del pose que detecta MediaPipe (33) se recogen en la siguien
 <div style="float: center; width: 100%;">
 <img src="https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png", align="center">
 
- Utilizaremos estos landmarks, junto a las faciales, para tratar de predecir con distintos algoritmos de Machine Learning el cansancio. Cuando la probabilidad de que el/la conductor/a es mayor que 70%, lanzaremos una alerta para que pare a descansar.
+ ---
+ 
+ 
+Utilizaremos estos landmarks, junto a las faciales, para tratar de predecir con distintos algoritmos de Machine Learning el cansancio. Cuando la probabilidad de que el/la conductor/a es mayor que 70%, lanzaremos una alerta para que pare a descansar.
