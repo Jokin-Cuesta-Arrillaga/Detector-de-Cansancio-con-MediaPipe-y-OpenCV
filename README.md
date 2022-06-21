@@ -25,6 +25,6 @@ Utilizaremos estos landmarks, junto a las faciales, para tratar de predecir con 
  
 Los resultados obtenidos han sido satisfactorios (se muestran en el siguiente .gif) y podrían mejorarse teniendo más datos entrenados o tomando en cuenta más variables en cuanto al cansancio. Incluso se podría estudiar más clases donde añadiríamos distintos grados de cansancio.
 
- <div style="width: 100%; clear: both;">
+<div style="width: 100%; clear: both;">
 <div style="float: center; width: 100%;">
-<img src="[https://i.ibb.co/pfYBY9H/Cansadodespierto.gif](https://i.ibb.co/pfYBY9H/Cansadodespierto.gif)", align="center">
+<img src="https://i.ibb.co/pfYBY9H/Cansadodespierto.gif", align="center">
