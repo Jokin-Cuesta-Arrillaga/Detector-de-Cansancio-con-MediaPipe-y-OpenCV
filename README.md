@@ -27,4 +27,4 @@ Los resultados obtenidos han sido satisfactorios (se muestran en el siguiente .g
 
  <div style="width: 100%; clear: both;">
 <div style="float: center; width: 100%;">
-<img src="https://i.ibb.co/pfYBY9H/Cansadodespierto.gif", align="center">
+<img src="[https://i.ibb.co/pfYBY9H/Cansadodespierto.gif](https://i.ibb.co/pfYBY9H/Cansadodespierto.gif)", align="center">
