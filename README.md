@@ -30,6 +30,7 @@ Los resultados obtenidos han sido satisfactorios (se muestran en el siguiente .g
 <div style="width: 100%; clear: both;">
 <div style="float: center; width: 100%;">
 <img src="https://github.com/Jokin-Cuesta-Arrillaga/Detector-de-Cansancio-con-MediaPipe-y-OpenCV/blob/main/Imagenes/Cansadodespierto.gif?raw=true)", align="centre">
-
+</div>
+</div>
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jokin-cuesta-arrillaga-5585a0213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jokin-cuesta-arrillaga-5585a0213?trk=profile-badge">Jokin Cuesta Arrillaga</a></div>
               
